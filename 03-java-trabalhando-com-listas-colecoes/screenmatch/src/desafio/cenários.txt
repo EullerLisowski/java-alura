@@ -1,0 +1,30 @@
+limite negativo
+limite vazio
+limite gigantesco
+
+descricao vazia
+descricao gigantesca
+
+valor negativo
+valor vazio
+valor gigantesco
+
+continuar -1
+continuar letra
+
+limite zerado
+limite ok
+
+compra zerada
+compra gigantesca
+compra normal
+
+
+saldo insuficiente
+ordem compras realizadas
+saldo
+
+ao sair
+ordem compras realizadas
+saldo
+
